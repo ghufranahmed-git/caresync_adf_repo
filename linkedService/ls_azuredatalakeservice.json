@@ -1,0 +1,10 @@
+{
+	"name": "ls_azuredatalakeservice",
+	"properties": {
+		"annotations": [],
+		"type": "AzureBlobFS",
+		"typeProperties": {
+			"url": "https://caresyncpractice01.dfs.core.windows.net/"
+		}
+	}
+}
